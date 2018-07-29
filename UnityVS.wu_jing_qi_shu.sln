@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.wu_jing_qi_shu.CSharp", "UnityVS.wu_jing_qi_shu.CSharp.csproj", "{AF0A04C4-2EDC-1D21-2EA0-84D6802B6A40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.wu_jing_qi_shu.CSharp.Editor", "UnityVS.wu_jing_qi_shu.CSharp.Editor.csproj", "{F60FEEA3-C6F9-4BC2-0186-46576BCC1078}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF0A04C4-2EDC-1D21-2EA0-84D6802B6A40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF0A04C4-2EDC-1D21-2EA0-84D6802B6A40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF0A04C4-2EDC-1D21-2EA0-84D6802B6A40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF0A04C4-2EDC-1D21-2EA0-84D6802B6A40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F60FEEA3-C6F9-4BC2-0186-46576BCC1078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F60FEEA3-C6F9-4BC2-0186-46576BCC1078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F60FEEA3-C6F9-4BC2-0186-46576BCC1078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F60FEEA3-C6F9-4BC2-0186-46576BCC1078}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
